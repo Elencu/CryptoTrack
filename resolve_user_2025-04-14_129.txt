@@ -1,0 +1,1 @@
+Resolve user profile for session (enhanced) - Implemented a new feature to enhance user profile.
