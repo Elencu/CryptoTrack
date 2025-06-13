@@ -1,0 +1,1 @@
+Support API response for session (complex) - Implemented a new feature to enhance API response.
