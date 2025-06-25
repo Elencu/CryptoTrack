@@ -1,0 +1,1 @@
+Add third-party authentication for client (critical) - Implemented a new feature to enhance third-party authentication.
