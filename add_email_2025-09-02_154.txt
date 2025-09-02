@@ -1,0 +1,1 @@
+Add email verification for error (major) - Implemented a new feature to enhance email verification.
