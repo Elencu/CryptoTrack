@@ -1,0 +1,1 @@
+Remove UI components for authentication (legacy)
