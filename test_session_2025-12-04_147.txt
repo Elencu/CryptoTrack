@@ -1,0 +1,1 @@
+Test session timeout for bugfix (major) - Implemented a new feature to enhance session timeout.
